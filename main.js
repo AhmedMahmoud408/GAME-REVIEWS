@@ -100,7 +100,7 @@ async function gameDetail(data){
 function gameId (id){
   
   let newCartona =`
-  <img src="${id.thumbnail}" class="w-25" alt="" />
+  <img src="${id.thumbnail}" class="w-50 img-data" alt="" />
           <div class="ms-4">
             <h4>Title: ${id.title}</h4>
             <h5>
