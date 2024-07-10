@@ -37,7 +37,9 @@ header img {
     transform: scale(1.05);
     filter: grayscale(0);
  }
- 
+ .img-data{
+  max-height: 40vh;
+ }
  /* ! loader */
 .lds-ring,
 .lds-ring div {
